@@ -123,7 +123,7 @@ const I18N = {
             title: "Over mij",
             bio: "Ik studeerde af als Bachelor Toegepaste Informatica met een specialisatie in AI & Data Engineering. Nu start ik bij Agoria als Junior Data & ML Engineer, klaar om mijn skills in data-analyse, machine learning en artificiële intelligentie op echte cases toe te passen en mee te bouwen aan innovatieve projecten.",
             links: {
-                linkedin: "LinkedIn-profiel (opent in nieuw venster)",
+                linkedin: "LinkedIn-profiel",
                 email: "E-mail: Matteo.de.moor@skynet.be"
             }
         },
@@ -292,7 +292,7 @@ const I18N = {
             title: "About me",
             bio: "I graduated as a Bachelor in Computer Science, specializing in AI & Data Engineering. Currently, I am starting my professional journey at Agoria as a Junior Data & ML Engineer, where I am excited to apply my skills in data analysis, machine learning, and artificial intelligence to real-world challenges and contribute to innovative projects.",
             links: {
-                linkedin: "LinkedIn profile (opens in new tab)",
+                linkedin: "LinkedIn profile",
                 email: "Email: Matteo.de.moor@skynet.be"
             }
         },
