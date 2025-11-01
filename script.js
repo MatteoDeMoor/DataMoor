@@ -1,20 +1,20 @@
 const I18N = {
     nl: {
         skip: "Ga naar hoofdinhoud",
-        brand: { name: "Dashboard-in-10-Dagen" },
+        brand: { name: "DataMoor KPI-dashboards" },
         header: {
             cta: "Gratis KPI-check",
             nav: "Hoofdnavigatie",
             language: "Taal"
         },
         hero: {
-            eyebrow: "Dashboard-in-10-Dagen",
-            title: "Van losse Excel naar helder KPI-dashboard.",
-            subtitle: "Ik help KMO’s één kernvraag te beantwoorden met een slim, onderhoudsarm dashboard. Vaste prijs. Duidelijke scope. Snel live.",
+            eyebrow: "DataMoor",
+            title: "Van data naar besluitvorming.",
+            subtitle: "Ik help KMO’s hun belangrijkste KPI’s visualiseren met schaalbare dashboards die met je organisatie meegroeien. Transparante samenwerking, duidelijke stappen.",
             primaryCta: "Gratis KPI-check",
             secondaryCta: "Bekijk pakketten"
         },
-        availability: "Beschikbaarheid: ik werk enkel in de weekends; planning gebeurt in overleg.",
+        availability: "Beschikbaarheid: weekend-first, met beperkte ondersteuning door de week in overleg.",
         badges: { title: "Tools & integraties" },
         audiences: {
             title: "Voor wie?",
@@ -99,7 +99,7 @@ const I18N = {
                 },
                 two: {
                     q: "Welke tools gebruik je?",
-                    a: "Ik werk vooral met Power BI, Looker Studio, dbt en Python, afhankelijk van jouw stack."
+                    a: "Ik werk vooral met Power BI, Microsoft Fabric en Python, aangevuld met automatisatie in Power Platform."
                 },
                 three: {
                     q: "Heb ik Power BI-licenties nodig?",
@@ -161,29 +161,29 @@ const I18N = {
         footer: {
             privacy: "Privacy",
             terms: "Voorwaarden",
-            copyright: "© <span id=\"jaar\"></span> Dashboard-in-10-Dagen. Alle rechten voorbehouden."
+            copyright: "© <span id=\"jaar\"></span> DataMoor. Alle rechten voorbehouden."
         },
         seo: {
-            title: "Dashboard-in-10-Dagen – KPI dashboards voor KMO's",
-            description: "Dashboard-in-10-Dagen helpt KMO's aan een helder KPI-dashboard in 10 dagen. Vaste prijs, duidelijke scope en snelle livegang."
+            title: "DataMoor – KPI dashboards op maat voor KMO's",
+            description: "DataMoor ontwerpt KPI-dashboards op maat voor KMO's. Heldere aanpak, schaalbare oplossingen en begeleiding van data tot beslissing."
         }
     },
     en: {
         skip: "Skip to main content",
-        brand: { name: "Dashboard-in-10-Dagen" },
+        brand: { name: "DataMoor KPI Dashboards" },
         header: {
             cta: "Free KPI Check",
             nav: "Primary navigation",
             language: "Language"
         },
         hero: {
-            eyebrow: "Dashboard-in-10-Days",
-            title: "From scattered spreadsheets to clear KPI dashboards.",
-            subtitle: "I help SMEs answer one core business question with a lean, low-maintenance dashboard. Fixed price. Clear scope. Fast to value.",
+            eyebrow: "DataMoor",
+            title: "From data to decisions.",
+            subtitle: "I help SMEs visualise their critical KPIs with scalable dashboards that grow with your organisation. Transparent collaboration, clear milestones.",
             primaryCta: "Free KPI Check",
             secondaryCta: "View Packages"
         },
-        availability: "Availability: I’m available on weekends only; planning is by mutual agreement.",
+        availability: "Availability: weekend-first with limited weekday support available by arrangement.",
         badges: { title: "Tools & integrations" },
         audiences: {
             title: "Who is it for?",
@@ -268,7 +268,7 @@ const I18N = {
                 },
                 two: {
                     q: "Which tools do you use?",
-                    a: "Mainly Power BI, Looker Studio, dbt, and Python, aligned with your stack."
+                    a: "Primarily Power BI, Microsoft Fabric, and Python, complemented by automation in the Power Platform."
                 },
                 three: {
                     q: "Do I need Power BI licenses?",
@@ -330,17 +330,17 @@ const I18N = {
         footer: {
             privacy: "Privacy",
             terms: "Terms",
-            copyright: "© <span id=\"jaar\"></span> Dashboard-in-10-Days. All rights reserved."
+            copyright: "© <span id=\"jaar\"></span> DataMoor. All rights reserved."
         },
         seo: {
-            title: "Dashboard-in-10-Days – KPI dashboards for SMEs",
-            description: "Dashboard-in-10-Days delivers a clear KPI dashboard fast. Fixed price, clear scope, and a lean setup for SMEs."
+            title: "DataMoor – Bespoke KPI dashboards for SMEs",
+            description: "DataMoor designs bespoke KPI dashboards for SMEs. Clear process, scalable solutions, and guidance from data to decision."
         }
     }
 };
 
 const STORAGE_KEYS = {
-    language: "dashboard10dagen-language"
+    language: "datamoor-language"
 };
 
 const packageLabels = {
